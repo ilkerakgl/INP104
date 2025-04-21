@@ -1,0 +1,3 @@
+kelime=input("Bir sözcük girin: ")
+for harf in kelime:
+  print(harf + "!")
