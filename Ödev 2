@@ -1,0 +1,3 @@
+isim=input("Adınız: ")
+soyad=input("Soyadınız: ")
+print(isim[0] + "." + soyad[0])
