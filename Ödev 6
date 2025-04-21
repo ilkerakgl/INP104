@@ -1,0 +1,5 @@
+kelime=input("Bir sözcük girin: ")
+sayi=int(input("Değiştirelecek harf: "))
+harf=input("Yeni harf: ")
+yeni_kelime=kelime[:sayi] + harf + kelime[sayi+1:]
+print(yeni_kelime)
