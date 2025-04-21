@@ -1,0 +1,4 @@
+isim=str(input("isim"))
+soyisim=str(input("soyisim"))
+print(isim[0])
+print(soyisim[0])
